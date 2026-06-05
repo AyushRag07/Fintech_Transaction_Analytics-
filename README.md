@@ -12,7 +12,7 @@ The project covers the complete analytics workflow: **data generation → databa
 
 ## 📊 Dashboard Preview
 
-<img width="100%" alt="Dashboard Preview" src="[PowerBI/FinTech Transaction Analytics Dashboard.png]">
+![Dashboard Preview](PowerBI/FinTech%20Transaction%20Analytics%20Dashboard.png)
 
 ---
 
@@ -103,7 +103,5 @@ Built an interactive Power BI dashboard for business insights and performance mo
 ## 👨‍💻 Author
 
 **Ayush Rag**
-
-*Aspiring Data Analyst | Python • SQL • Power BI*
 
 ⭐ If you found this project interesting, consider giving it a star.
