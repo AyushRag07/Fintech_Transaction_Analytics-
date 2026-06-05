@@ -32,3 +32,12 @@ MODIFY signup_date DATE;
 
 ALTER TABLE transactions
 MODIFY transaction_date DATETIME;
+
+UPDATE customers
+SET signup_date = DATE_SUB(signup_date, INTERVAL 3 YEAR);
+
+SELECT
+    transaction_category,
+    COUNT(*)
+FROM transactions
+GROUP BY transaction_category;

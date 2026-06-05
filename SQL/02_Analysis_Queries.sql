@@ -251,6 +251,13 @@ SELECT
 FROM ranked_customers
 WHERE rnk <= 3
 ORDER BY yr, mn;
+
+
+
+
+
+
+
     
 
 
