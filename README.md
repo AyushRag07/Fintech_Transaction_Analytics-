@@ -12,7 +12,7 @@ The project covers the complete analytics workflow: **data generation → databa
 
 ## 📊 Dashboard Preview
 
-<img width="100%" alt="Dashboard Preview" src="[images/dashboard.png](https://github.com/AyushRag07/Fintech_Transaction_Analytics-/blob/main/PowerBI/FinTech%20Transaction%20Analytics%20Dashboard.png)">
+<img width="100%" alt="Dashboard Preview" src="[PowerBI/FinTech Transaction Analytics Dashboard.png](https://github.com/AyushRag07/Fintech_Transaction_Analytics-/blob/main/PowerBI/FinTech%20Transaction%20Analytics%20Dashboard.png)">
 
 ---
 
